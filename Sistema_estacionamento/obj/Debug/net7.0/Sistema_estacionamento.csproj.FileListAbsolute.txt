@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\bin\Debug\net7.0\Sistema_estacionamento.exe
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\bin\Debug\net7.0\Sistema_estacionamento.deps.json
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\bin\Debug\net7.0\Sistema_estacionamento.runtimeconfig.json
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\bin\Debug\net7.0\Sistema_estacionamento.dll
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\bin\Debug\net7.0\Sistema_estacionamento.pdb
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.AssemblyInfo.cs
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.sourcelink.json
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.dll
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\refint\Sistema_estacionamento.dll
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.pdb
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\Sistema_estacionamento.genruntimeconfig.cache
+C:\Users\maico\Documents\Sistema_estacionamento\Sistema_estacionamento\obj\Debug\net7.0\ref\Sistema_estacionamento.dll
